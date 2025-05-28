@@ -63,6 +63,8 @@ Currently, I'm expanding my expertise into the exciting world of **artificial in
 ### 🌐 Let's Connect
 
 🔗 [LinkedIn](https://in.linkedin.com/in/rutulpatel89)  
+📧 Email: [skywork2212@gmail.com](mailto:skywork2212@gmail.com)  
+📱 Mobile: +91 75670 86864  
 📫 Available for collaboration, mentorship, and tech talks.
 
 ---
