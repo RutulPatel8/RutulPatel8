@@ -17,6 +17,14 @@ Currently, I'm expanding my expertise into the exciting world of **artificial in
 
 ---
 
+## 🏆 Achievements
+
+- **Contributed to Microsoft’s .NET WinForms Framework**  
+  - Successfully submitted a [Pull Request (#10707)](https://github.com/dotnet/winforms/pull/10707) that was merged into the official Microsoft .NET WinForms repository.  
+  - Recognized by the Microsoft team for improving the framework used by millions of developers worldwide.
+
+---
+
 ### 🔧 Tech Stack
 
 - **Languages:** C#, JavaScript, SQL, Python (learning)
