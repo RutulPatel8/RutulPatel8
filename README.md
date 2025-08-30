@@ -23,6 +23,10 @@ Currently, I'm expanding my expertise into the exciting world of **artificial in
   - Successfully submitted a [Pull Request (#10707)](https://github.com/dotnet/winforms/pull/10707) that was merged into the official Microsoft .NET WinForms repository.  
   - Recognized by the Microsoft team for improving the framework used by millions of developers worldwide.
 
+- **Proposed a fix for .NET WinForms TreeView sorting issue**  
+  - Authored a detailed [Pull Request (#11300)](https://github.com/dotnet/winforms/pull/11300) providing analysis, code suggestions, and test methodology to resolve `TreeNodeCollection.AddRange` misbehavior when used with sorted `TreeView` controls.  
+  - Contribution initiated an in-depth discussion with Microsoft engineers, showcasing strong diagnostic and problem-solving skills.
+
 ---
 
 ### 🔧 Tech Stack
