@@ -5,18 +5,6 @@
 📍 Ahmedabad, India  
 🔗 [LinkedIn](https://in.linkedin.com/in/rutulpatel89)
 
----
-
-### 💼 About Me
-
-Hi, I’m Rutul Patel — a passionate and solution-oriented software engineer with over 5 years of experience in building enterprise applications using modern Microsoft technologies.
-
-I specialize in **.NET Framework**, **.NET Core**, **MAUI**, and **WPF**, with a strong focus on clean architecture, scalable system design, and real-time integrations. I've had the privilege of contributing to the **Microsoft WinForms team**, where one of my PRs was successfully accepted — a proud milestone as an open-source contributor.
-
-Currently, I'm expanding my expertise into the exciting world of **artificial intelligence**, aiming to blend traditional software development with intelligent solutions that solve real-world challenges.
-
----
-
 ## 🏆 Achievements
 
 - **Contributed to Microsoft’s .NET WinForms Framework**  
@@ -26,6 +14,17 @@ Currently, I'm expanding my expertise into the exciting world of **artificial in
 - **Proposed a fix for .NET WinForms TreeView sorting issue**  
   - Authored a detailed [Pull Request (#11300)](https://github.com/dotnet/winforms/pull/11300) providing analysis, code suggestions, and test methodology to resolve `TreeNodeCollection.AddRange` misbehavior when used with sorted `TreeView` controls.  
   - Contribution initiated an in-depth discussion with Microsoft engineers, showcasing strong diagnostic and problem-solving skills.
+
+---
+---
+
+### 💼 About Me
+
+Hi, I’m Rutul Patel — a passionate and solution-oriented software engineer with over 5 years of experience in building enterprise applications using modern Microsoft technologies.
+
+I specialize in **.NET Framework**, **.NET Core**, **MAUI**, and **WPF**, with a strong focus on clean architecture, scalable system design, and real-time integrations. I've had the privilege of contributing to the **Microsoft WinForms team**, where one of my PRs was successfully accepted — a proud milestone as an open-source contributor.
+
+Currently, I'm expanding my expertise into the exciting world of **artificial intelligence**, aiming to blend traditional software development with intelligent solutions that solve real-world challenges.
 
 ---
 
